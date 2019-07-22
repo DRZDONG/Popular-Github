@@ -1,0 +1,66 @@
+{
+  "aboutMe": {
+    "Tutorial": {
+      "name": "Course",
+      "icon": "ios-bookmarks",
+      "items": [
+        {
+          "title": "React Native Course",
+          "url": "https://facebook.github.io/react-native/"
+        },
+        {
+          "title": "React Native - Chinese",
+          "url": "https://reactnative.cn"
+        }
+      ]
+    },
+    "Blog": {
+      "name": "Blog",
+      "icon": "ios-laptop",
+      "items": [
+        {
+          "title": "GitHub",
+          "url": "https://github.com/DRZDONG"
+        }
+      ]
+    },
+    "Contact": {
+      "name": "Contact",
+      "icon": "ios-contacts",
+      "items": {
+        "Email": {
+          "title": "Email",
+          "account": "drq12345@outlook.com"
+        }
+      }
+    },
+    "QQ": {
+      "name": "QQ",
+      "icon": "ios-chatbubbles",
+      "items": [
+        {
+          "title": "QQ",
+          "account": "823393356"
+        }
+      ]
+    }
+  },
+  "info": {
+    "html_url": "https://github.com/DRZDONG/",
+    "url": "https://github.com/DRZDONG",
+    "currentRepoUrl": "https://github.com/DRZDONG"
+  },
+  "author": {
+    "name": "DONG",
+    "description": "Hey!",
+    "avatar": "http://avatar.csdn.net/1/1/E/1_fengyuzhengfan.jpg",
+    "backgroundImg": "http://www.devio.org/io/GitHubPopular/img/for_githubpopular_about_me.jpg",
+    "url": "https://github.com/DRZDONG"
+  },
+  "app": {
+    "name": "Popular GitHub",
+    "description": "GitHub Android and iOS Client with React Native that Supports Trending, Star, Search and Subscribe Functions",
+    "avatar": "http://www.devio.org/io/GitHubPopular/img/ic_app.png",
+    "backgroundImg": "http://www.devio.org/io/GitHubPopular/img/for_githubpopular_about_me.jpg"
+  }
+}

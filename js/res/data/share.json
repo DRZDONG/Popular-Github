@@ -1,0 +1,20 @@
+{
+  "share_app": {
+    "title": "Share Popular GitHub",
+    "content": "GitHub Client",
+    "imgUrl": "https://static.makeuseof.com/wp-content/uploads/2017/02/best-ipad-news-apps-670x335.jpg",
+    "url":"https://github.com/DRZDONG/Popular-Github"
+  },
+  "share_blog": {
+    "title": "Share Blog",
+    "content": "This is DONG's personal blog",
+    "imgUrl": "https://static.makeuseof.com/wp-content/uploads/2017/02/best-ipad-news-apps-670x335.jpg",
+    "url":"https://github.com/DRZDONG"
+  },
+  "share_repo": {
+    "title": "Share from Popular GitHub",
+    "content": "I find GitHub Popular Project",
+    "imgUrl": "https://static.makeuseof.com/wp-content/uploads/2017/02/best-ipad-news-apps-670x335.jpg",
+    "url":"https://github.com/DRZDONG"
+  }
+}
